@@ -1,0 +1,10 @@
+GitHub Pages lets you turn your repository into a website. 
+This is a great way to share your project, resume, portfolio, documentation, or even a blog with the world.
+
+Under your repository name, click Settings.
+
+Click Pages in the Code and automation section.
+
+Ensure Deploy from a branch is selected from the Source drop-down menu, and then select main from the Branch drop-down menu.
+
+Click the Save button
