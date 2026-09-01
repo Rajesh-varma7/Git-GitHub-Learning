@@ -1,4 +1,5 @@
 Violet
+Indigo
 Blue
 Green
 Red
